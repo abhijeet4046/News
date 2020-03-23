@@ -1,0 +1,8 @@
+C:\Users\abhijeetp\Desktop\News\News\NewsRepository\bin\Debug\netcoreapp3.0\NewsRepository.deps.json
+C:\Users\abhijeetp\Desktop\News\News\NewsRepository\bin\Debug\netcoreapp3.0\NewsRepository.dll
+C:\Users\abhijeetp\Desktop\News\News\NewsRepository\obj\Debug\netcoreapp3.0\NewsRepository.AssemblyInfoInputs.cache
+C:\Users\abhijeetp\Desktop\News\News\NewsRepository\obj\Debug\netcoreapp3.0\NewsRepository.AssemblyInfo.cs
+C:\Users\abhijeetp\Desktop\News\News\NewsRepository\bin\Debug\netcoreapp3.0\NewsRepository.pdb
+C:\Users\abhijeetp\Desktop\News\News\NewsRepository\obj\Debug\netcoreapp3.0\NewsRepository.dll
+C:\Users\abhijeetp\Desktop\News\News\NewsRepository\obj\Debug\netcoreapp3.0\NewsRepository.pdb
+C:\Users\abhijeetp\Desktop\News\News\NewsRepository\obj\Debug\netcoreapp3.0\NewsRepository.csprojAssemblyReference.cache
